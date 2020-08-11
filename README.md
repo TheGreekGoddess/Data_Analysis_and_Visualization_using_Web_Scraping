@@ -1,5 +1,5 @@
 # Web Scraping Homework - Mission to Mars
-![mission_to_mars](Images/mission_to_mars.png)
+![The Martian](Images/The Martian.jpg)
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
 ## Step 1 - Scraping
@@ -64,8 +64,8 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 * Create a root route `/` that will query your Mongo database and pass the mars data into an HTML template to display the data.
 * Create a template HTML file called `index.html` that will take the mars data dictionary and display all of the data in the appropriate HTML elements. Use the following as a guide for what the final product should look like, but feel free to create your own design.
 
-![final_app_part1.png](Images/final_app_part1.png)
-![final_app_part2.png](Images/final_app_part2.png)
+![Mission to Mars.jpg](Images/Mission to Mars.jpg)
+![Mars Hemispheres.jpg](Images/Mars Hemispheres.jpg)
 
 - - -
 ## Step 3 - Submission
